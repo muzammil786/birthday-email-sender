@@ -1,0 +1,17 @@
+{
+  "name": "birthday-email",
+  "version": "0.0.1",
+  "description": "Reads birthday events from google calendar and sends emails.",
+  "scripts": {
+    "start": "node app/main.js"
+  },
+  "repository": "",
+  "author": "Muzammil Shahbaz <muzammil.shahbaz@gmail.com>",
+  "dependencies": {
+    "nodemailer": "^4.0.1",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^16.0.0",
+    "xoauth2": "^1.2.0",
+    "promise": "~7.1.1"
+  }
+}

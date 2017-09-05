@@ -1,0 +1,8 @@
+{
+	"sender_name": "your name",
+	"from": "your email address",
+	"bcc": "your email address",
+	"to": "{{buddyEmailAddress}}",
+	"subject": "Happy Birthday",
+	"html_message": "<p>Dear {{buddyName}},</p><p>Wishing you many happy returns of the day and all the best in achieving your goals.</p><p>As usual, have a piece of cake from my side :-)</p><p>Regards</p>"
+}
